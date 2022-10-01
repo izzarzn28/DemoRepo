@@ -1,2 +1,2 @@
-# DemoRepo
-DemoRepo
+# DemoRap
+This repository provides basics of Solidity
